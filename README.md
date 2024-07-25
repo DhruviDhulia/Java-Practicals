@@ -1,5 +1,4 @@
 # Java-Practicals
-Here are the 1-2 line conclusions for each of the 15 practical codes provided:
 
 1. **Rectangle Program**: Demonstrates the use of classes, objects, constructors, and methods in Java to calculate and display the properties of a rectangle, including user interaction using the Scanner class.
 
